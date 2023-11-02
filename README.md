@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `CSS esencial`. El curso c
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Sumérgete en el universo del diseño web y pule tus destrezas en el front-end. Explora a fondo el lenguaje de estilo que da vida a las páginas web: Cascading Style Sheets (CSS). El objetivo del cuero es brindarte una base sólida para crear diseños únicos y atractivos para tus proyectos online. Domina la creación de atractivas páginas web personalizadas. Adquiere habilidades prácticas y fundamentos sólidos en CSS, permitiéndote construir diseños atractivos y accesibles para todos los dispositivos. Tu camino hacia la maestría en diseño web comienza aquí.
 
 ## Instrucciones
 
